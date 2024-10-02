@@ -1,0 +1,16 @@
+.home-background {
+    background-color: #6A9C89;
+    min-height: 100vh;
+    padding: 2rem;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  
+  .home-title {
+    text-align: center;
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #333;
+    margin-bottom: 2rem;
+  }
+  
